@@ -37,7 +37,7 @@
 
 ### Code
 
-
+>   `silicon.ipynb`
 
 
 
@@ -66,7 +66,7 @@
 
 ### Code
 
-
+>   `vo2.ipynb`
 
 
 
@@ -93,7 +93,7 @@
 
 ### Code
 
-
+>   `vo2.ipynb`
 
 
 
@@ -111,22 +111,24 @@
 | Peak Force Frequency |         $ 2 \ kHz $          |
 |    Feedback Gain     |          Automatic           |
 
-| Filename | Scanning Speed ($ \mu m \cdot s ^{-1} $) | Frame |
-| :------: | :--------------------------------------: | :---: |
-| VO2 S1 1 |                   1.0                    |   1   |
-| VO2 S1 2 |                   1.0                    |   2   |
-| VO2 S1 3 |                   1.0                    |   3   |
-| VO2 S1 4 |                   1.0                    |   4   |
-| VO2 S1 5 |                   1.0                    |   5   |
-| VO2 S6 1 |                   6.0                    |   1   |
-| VO2 S6 2 |                   6.0                    |   2   |
-| VO2 S6 3 |                   6.0                    |   3   |
-| VO2 S6 4 |                   6.0                    |   4   |
-| VO2 S6 5 |                   6.0                    |   5   |
+|   Filename   | Scanning Speed ($ \mu m \cdot s ^{-1} $) | Frame |
+| :----------: | :--------------------------------------: | :---: |
+| VO2 Train S1 |                   1.0                    |       |
+| VO2 Train S6 |                   6.0                    |       |
+|   VO2 S1 1   |                   1.0                    |   1   |
+|   VO2 S1 2   |                   1.0                    |   2   |
+|   VO2 S1 3   |                   1.0                    |   3   |
+|   VO2 S1 4   |                   1.0                    |   4   |
+|   VO2 S1 5   |                   1.0                    |   5   |
+|   VO2 S6 1   |                   6.0                    |   1   |
+|   VO2 S6 2   |                   6.0                    |   2   |
+|   VO2 S6 3   |                   6.0                    |   3   |
+|   VO2 S6 4   |                   6.0                    |   4   |
+|   VO2 S6 5   |                   6.0                    |   5   |
 
 ### Code
 
-
+>   `vo2.ipynb`
 
 
 
@@ -149,7 +151,7 @@
 
 ### Code
 
-
+>   `secm.ipynb`
 
 
 
